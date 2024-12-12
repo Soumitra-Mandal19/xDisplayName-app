@@ -1,0 +1,20 @@
+.root{
+    display: flex;
+     flex-direction: column; 
+     justify-content: flex-start
+}
+
+.form{
+    display: flex;
+     flex-direction: column;
+}
+
+.displayName{
+    padding-top:20px;
+}
+
+.inputBar{
+    font-size: 16px;
+    position: relative;
+}
+
